@@ -9,6 +9,7 @@ public class App
     public static void main( String[] args )
     {
         runTask1();
+        //java efektywne programowanie
     }
 
     static void runTask1(){
